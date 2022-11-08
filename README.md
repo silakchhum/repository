@@ -1,19 +1,19 @@
-# Laravel Phumpie
+# Laravel Repository
 
-[![Latest Stable Version](https://poser.pugx.org/phumsoft/phumpie/v/stable)](https://packagist.org/packages/phumsoft/phumpie)
-[![Total Downloads](https://poser.pugx.org/phumsoft/phumpie/downloads)](https://packagist.org/packages/phumsoft/phumpie)
-[![License](https://poser.pugx.org/phumsoft/phumpie/license)](https://packagist.org/packages/phumsoft/phumpie)
+[![Latest Stable Version](https://poser.pugx.org/phumsoft/repository/v/stable)](https://packagist.org/packages/phumsoft/repository)
+[![Total Downloads](https://poser.pugx.org/phumsoft/repository/downloads)](https://packagist.org/packages/phumsoft/repository)
+[![License](https://poser.pugx.org/phumsoft/repository/license)](https://packagist.org/packages/phumsoft/repository)
 
-A custom package for custom code structure, reduce rewrite common logic for laravel application.
+A custom package for custom code structure, reduce rewrite common logic for repository application.
 
 ## Installation
 
-This package requires Laravel 9.x or later running on PHP 8.1å or higher.
+This package requires Laravel 9.x or later running on PHP 8.1 or higher.
 
 This package can be installed using composer:
 
 ```
-composer require phumpie/phumpie
+composer require phumsoft/repository
 ```
 
 ## License
