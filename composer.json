@@ -1,0 +1,31 @@
+{
+    "name": "phumsoft/repository",
+    "description": "The package is using for custom default repository package",
+    "homepage": "https://github.com/phumsoft/repository",
+    "type": "library",
+    "license": "MIT",
+    "keywords": [
+        "phumsoft",
+        "silak",
+        "repository",
+        "laravel"
+    ],
+    "autoload": {
+        "psr-4": {
+            "Phumsoft\\Repository\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Silak",
+            "email": "chhumsilak@gmail.com",
+            "role": "developer"
+        }
+    ],
+    "require": {
+        "php": "^8.0|^8.1"
+    },
+    "require-dev": {
+        "laravel/pint": "^1.2"
+    }
+}
