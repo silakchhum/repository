@@ -23,7 +23,7 @@
         }
     ],
     "require": {
-        "php": "^8.0|^8.1",
+        "php": "^7.4|^8.0|^8.1",
         "prettus/l5-repository": "^2.8"
     },
     "require-dev": {
