@@ -116,7 +116,7 @@ return [
             |--------------------------------------------------------------------------
             |
             |
-            | Ex: http://prettus.local/?search=lorem&skipCache=true
+            | Ex: http://phumpie.local/?search=lorem&skipCache=true
             |
             */
             'skipCache' => 'skipCache',
@@ -182,32 +182,32 @@ return [
         | Params :
         |
         | - search : Searched value
-        |   Ex: http://prettus.local/?search=lorem
+        |   Ex: http://phumpie.local/?search=lorem
         |
         | - searchFields : Fields in which research should be carried out
         |   Ex:
-        |    http://prettus.local/?search=lorem&searchFields=name;email
-        |    http://prettus.local/?search=lorem&searchFields=name:like;email
-        |    http://prettus.local/?search=lorem&searchFields=name:like
+        |    http://phumpie.local/?search=lorem&searchFields=name;email
+        |    http://phumpie.local/?search=lorem&searchFields=name:like;email
+        |    http://phumpie.local/?search=lorem&searchFields=name:like
         |
         | - filter : Fields that must be returned to the response object
         |   Ex:
-        |   http://prettus.local/?search=lorem&filter=id,name
+        |   http://phumpie.local/?search=lorem&filter=id,name
         |
         | - orderBy : Order By
         |   Ex:
-        |   http://prettus.local/?search=lorem&orderBy=id
+        |   http://phumpie.local/?search=lorem&orderBy=id
         |
         | - sortedBy : Sort
         |   Ex:
-        |   http://prettus.local/?search=lorem&orderBy=id&sortedBy=asc
-        |   http://prettus.local/?search=lorem&orderBy=id&sortedBy=desc
+        |   http://phumpie.local/?search=lorem&orderBy=id&sortedBy=asc
+        |   http://phumpie.local/?search=lorem&orderBy=id&sortedBy=desc
         |
         | - searchJoin: Specifies the search method (AND / OR), by default the
         |               application searches each parameter with OR
         |   EX:
-        |   http://prettus.local/?search=lorem&searchJoin=and
-        |   http://prettus.local/?search=lorem&searchJoin=or
+        |   http://phumpie.local/?search=lorem&searchJoin=and
+        |   http://phumpie.local/?search=lorem&searchJoin=or
         |
         */
         'params' => [
