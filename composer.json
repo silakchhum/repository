@@ -24,7 +24,7 @@
     ],
     "require": {
         "php": "^7.4|^8.0|^8.1",
-        "prettus/l5-repository": "^2.8"
+        "prettus/l5-repository": "^2.9"
     },
     "require-dev": {
         "laravel/pint": "^1.2"
