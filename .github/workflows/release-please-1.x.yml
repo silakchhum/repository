@@ -1,7 +1,7 @@
 on:
   push:
     branches:
-      - main
+      - 1.x
 
 name: Release Please
 jobs:
@@ -12,3 +12,4 @@ jobs:
         with:
           release-type: php
           package-name: release-please-action
+          default-branch: 1.x
