@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.0](https://github.com/phumsoft/repository/compare/v1.0.0...v1.1.0) (2023-02-23)
+
+
+### Features
+
+* :sparkles: support laravel 10 ([f1fc544](https://github.com/phumsoft/repository/commit/f1fc544cdf325cc68d68e171d32b1f38ba59c128))
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @commitlint/cli from 17.4.3 to 17.4.4 ([afc2c80](https://github.com/phumsoft/repository/commit/afc2c8021f295a1bf452b851a9a541acec7fb12b))
+* **deps-dev:** bump @commitlint/config-conventional ([792df7f](https://github.com/phumsoft/repository/commit/792df7fd9fad5d09b2809075ce997f549bb8da4e))
+
 ## 1.0.0 (2023-02-18)
 
 
