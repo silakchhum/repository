@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.1.0](https://github.com/phumsoft/repository/compare/v1.0.0...v1.1.0) (2023-02-27)
+
+
+### Features
+
+* :sparkles: schedule runing depentabot with Phnom Penh timezone ([1ef9919](https://github.com/phumsoft/repository/commit/1ef99194ce3167c9e0d01420be99ae8c2c905883))
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump eslint from 8.34.0 to 8.35.0 ([b648a00](https://github.com/phumsoft/repository/commit/b648a003cd2513cb989062158bbdbf31bb167fe3))
+
 ## [1.0.0](https://github.com/phumsoft/repository/compare/v1.0.0...v1.0.0) (2023-02-23)
 
 
