@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.2](https://github.com/phumsoft/repository/compare/v1.1.1...v1.1.2) (2023-03-24)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @commitlint/cli from 17.4.4 to 17.5.0 ([045e332](https://github.com/phumsoft/repository/commit/045e332fb671264429df1ad88e6f009306b494f0))
+
 ## [1.1.1](https://github.com/phumsoft/repository/compare/v1.1.0...v1.1.1) (2023-03-15)
 
 
