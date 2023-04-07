@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.3](https://github.com/phumsoft/repository/compare/v1.1.2...v1.1.3) (2023-04-07)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @commitlint/cli from 17.5.0 to 17.5.1 ([5c3c96c](https://github.com/phumsoft/repository/commit/5c3c96c1b0e6ae84588d23e7721119f653b8fb3e))
+* **deps-dev:** bump eslint from 8.36.0 to 8.37.0 ([0019a7b](https://github.com/phumsoft/repository/commit/0019a7b361701ea59ba0e5061598a61a0f2c66c4))
+
 ## [1.1.2](https://github.com/phumsoft/repository/compare/v1.1.1...v1.1.2) (2023-03-24)
 
 
