@@ -1,5 +1,18 @@
 # Changelog
 
+## [1.1.4](https://github.com/phumsoft/repository/compare/v1.1.3...v1.1.4) (2023-06-14)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @commitlint/cli from 17.5.1 to 17.6.1 ([5107029](https://github.com/phumsoft/repository/commit/5107029a029660cdb3b6ea409584d2c03370c9ee))
+* **deps-dev:** bump @commitlint/cli from 17.6.1 to 17.6.5 ([d2ff4f5](https://github.com/phumsoft/repository/commit/d2ff4f51f2a997c70e3be1fa2eadce8b0e20114d))
+* **deps-dev:** bump @commitlint/config-conventional ([11efe79](https://github.com/phumsoft/repository/commit/11efe793aadd680af591ad7d1f808f7791a54375))
+* **deps-dev:** bump @commitlint/config-conventional ([60a432a](https://github.com/phumsoft/repository/commit/60a432ab413510e8218a30af5eaa8788b6e75030))
+* **deps-dev:** bump eslint from 8.37.0 to 8.38.0 ([d699b98](https://github.com/phumsoft/repository/commit/d699b98a3998669153e912fc27f53381372bb1fb))
+* **deps-dev:** bump eslint from 8.38.0 to 8.39.0 ([f7381c1](https://github.com/phumsoft/repository/commit/f7381c19e2d1f83e6166ca7dd217f341480292d5))
+* **deps-dev:** bump eslint from 8.39.0 to 8.42.0 ([5954b6e](https://github.com/phumsoft/repository/commit/5954b6e1df96053f486cce4cc7d053c20187e4d5))
+
 ## [1.1.3](https://github.com/phumsoft/repository/compare/v1.1.2...v1.1.3) (2023-04-07)
 
 
