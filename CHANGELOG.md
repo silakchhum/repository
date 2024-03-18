@@ -1,5 +1,19 @@
 # Changelog
 
+## [1.1.5](https://github.com/phumsoft/repository/compare/v1.1.4...v1.1.5) (2024-03-18)
+
+
+### Bug Fixes
+
+* **deps:** bump actions/checkout from 3 to 4 ([7b13500](https://github.com/phumsoft/repository/commit/7b135006dcb0679843edc222b1f79f057cfeda1d))
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @commitlint/cli from 17.6.5 to 17.7.1 ([deec523](https://github.com/phumsoft/repository/commit/deec523b4937b80c69f5af6f9f8323755c3b8039))
+* **deps-dev:** bump eslint from 8.42.0 to 8.47.0 ([9ea0e41](https://github.com/phumsoft/repository/commit/9ea0e419caf49ebe887d5d53e4744e68eb3bc03c))
+* **deps-dev:** bump eslint from 8.47.0 to 8.54.0 ([550ebc2](https://github.com/phumsoft/repository/commit/550ebc2bc5f5a4214fc77859ff7703f45254e778))
+
 ## [1.1.4](https://github.com/phumsoft/repository/compare/v1.1.3...v1.1.4) (2023-06-14)
 
 
