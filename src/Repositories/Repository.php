@@ -32,7 +32,6 @@ abstract class Repository extends BaseRepo implements CacheableInterface
     public function toList()
     {
         if (!request()->get('page')) {
-            $this->skipPresenter();
 
             return $this->all();
         } else {
