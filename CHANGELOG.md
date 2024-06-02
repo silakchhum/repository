@@ -1,5 +1,23 @@
 # Changelog
 
+## [1.2.0](https://github.com/phumsoft/repository/compare/v1.1.5...v1.2.0) (2024-06-02)
+
+
+### Features
+
+* :tada: support laravel 11 ([d00e374](https://github.com/phumsoft/repository/commit/d00e374b286ecb0cb80913c7f6d472f87d2070f6))
+
+
+### Bug Fixes
+
+* **deps:** bump google-github-actions/release-please-action from 3 to 4 ([973f2bd](https://github.com/phumsoft/repository/commit/973f2bdbfa2074c688eb5173f310be9f876d7e1d))
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @commitlint/config-conventional ([1ae47fd](https://github.com/phumsoft/repository/commit/1ae47fd5006474d2b9f5296680d2889055a00b95))
+* **deps-dev:** bump husky from 8.0.3 to 9.0.11 ([1f60787](https://github.com/phumsoft/repository/commit/1f60787080434cf933d28014f3a24f9926ecdab3))
+
 ## [1.1.5](https://github.com/phumsoft/repository/compare/v1.1.4...v1.1.5) (2024-03-18)
 
 
