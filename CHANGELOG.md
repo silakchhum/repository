@@ -1,5 +1,13 @@
 # Changelog
 
+## [1.1.6](https://github.com/phumsoft/repository/compare/v1.1.5...v1.1.6) (2024-06-02)
+
+
+### Miscellaneous Chores
+
+* **deps-dev:** bump @commitlint/config-conventional ([1ae47fd](https://github.com/phumsoft/repository/commit/1ae47fd5006474d2b9f5296680d2889055a00b95))
+* **deps-dev:** bump husky from 8.0.3 to 9.0.11 ([1f60787](https://github.com/phumsoft/repository/commit/1f60787080434cf933d28014f3a24f9926ecdab3))
+
 ## [1.1.5](https://github.com/phumsoft/repository/compare/v1.1.4...v1.1.5) (2024-03-18)
 
 
